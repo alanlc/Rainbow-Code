@@ -23,3 +23,4 @@
 * p5Dojo: [QR Clock](http://christernilsson.github.io/Lab/2017/062-QRcode/), [Source](https://github.com/ChristerNilsson/Lab/tree/master/2017/062-QRcode)
 * Merijn_DH: [Newton Clock](http://alpha.editor.p5js.org/Merijn-DH/sketches/rkNjv8ro-)
 * JosephS: [Colorful/Formatted Clock](https://alpha.editor.p5js.org/full/By-iJRIjb), [Source](https://alpha.editor.p5js.org/jspira/sketches/By-iJRIjb)
+* AlanC: [Hourglass Style](https://alanlc.github.io/Clock/), [Source](https://github.com/alanlc/Clock)
